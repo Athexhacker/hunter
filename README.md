@@ -50,7 +50,7 @@ apt update && apt upgrade -y && apt install git wget php unzip curl -y && git cl
 
 - Register and sign up for ngrok to obtain ngrok auth token in order for it to work push auth in directions as outlined on ngrok official website.
 
-- Fire up ngrok on the port (ngrok http 5555/standard is 5555) you're planning to running shellphish on, then open a seperate terminal and run shellphish, link/url will be present in ngrok's terminal tab. 
+- Fire up ngrok on the port (ngrok http 5555/standard is 5555) you're planning to running shellphish on, then open a seperate terminal and run hunter, link/url will be present in ngrok's terminal tab. 
 
 
 ## How to Update:
@@ -67,10 +67,9 @@ bash update.sh
 
 ## CREATED BY ATHEX
 
-### Here ***sites*** folder collected from ZPhisher (https://github.com/htr-tech/zphisher)
-
 ### For any kind of help, support, suggetion and request ask in my whatsapp :
 **whatsapp number : +92 3475549695**
 
 Support me on YouTube : inziXploit444 (BLACK HAT ATHEX)
+
 
